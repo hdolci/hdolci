@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Huy
 - 👀 I’m a self taught front-end developer doing freelance work since the start of 2020
-- 🌱 I’m currently learning Javascript & React
-- 🧐 I'm always looking to challenge myself and eager to learn back-end development in the future with MongoDB
+- 🌱 I’m currently learning data analyatics (SQL, MongoDB, Tableau)
 
 <!---
 hdolci/hdolci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
