@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Huy
-- 👀 I’m a self taught front-end developer doing freelance work since the start of 2020
 - 🌱 I’m currently learning data analyatics (SQL, Python, Tableau) at UC Berkeley Extension
+- 📊 Data is something I am very passionate about and enjoy visualizing it to help make decisions 
 
 <!---
 hdolci/hdolci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
