@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Huy
-- 🌱  I’m currently learning data analyatics (SQL, Python, Tableau) at UC Berkeley Extension
+- 🌱  I’m recently completed learning data analyatics (SQL, Python, Tableau) at UC Berkeley Extension
 - 📊  Data is something I am very passionate about and enjoy visualizing it to help make decisions 
 
 <!---
